@@ -74,13 +74,14 @@ section{
     right: -60px;
     bottom: -32px;
 }
+
 .img-about::before {
     content: '';
     position: absolute;
     height: 20%;
     width: 80px;
-    border-top: 10px solid #FF4235;
-    border-left: 10px solid #FF4235;
+    border-top: 10px solid #f9ca24;
+    border-left: 10px solid #f9ca24;
     left: -36px;
     top: -32px;
 }
